@@ -1,6 +1,8 @@
 # Data-Analytics-Thesis
 
-My thesis on ranking algorithms, submitted in partial fulfilment of the requirements for the degree of Masters of Science in Computer Science (Data Analytics)
+My thesis on ranking algorithms, submitted in partial fulfilment of the requirements for the degree of Masters of Science in Computer Science (Data Analytics).
+
+This thesis acheived a first class honours degree. 
 
 ## Abstract 
 
